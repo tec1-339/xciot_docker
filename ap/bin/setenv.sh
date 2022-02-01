@@ -1,0 +1,1 @@
+JAVA_OPTS="-Xms512m -Xmx2048m -XX:MaxMetaspaceSize=2048m"
